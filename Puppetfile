@@ -1,4 +1,4 @@
-mod 'puppetlabs-windows'
+#mod 'puppetlabs-windows'
 mod 'puppet-download_file'
 mod 'puppet-windows_env'
 mod 'puppet-windowsfeature'
