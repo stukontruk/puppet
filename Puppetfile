@@ -1,1 +1,1 @@
-mod 'windows-feature'
+mod 'puppetlabs-windows'
