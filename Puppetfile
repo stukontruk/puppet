@@ -1,3 +1,4 @@
+forge 'forge.puppetlabs.com'
 #mod 'puppetlabs-windows'
 mod 'puppet-download_file'
 mod 'puppet-windows_env'
