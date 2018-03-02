@@ -1,5 +1,6 @@
 forge 'forge.puppetlabs.com'
 #mod 'puppetlabs-windows'
+mod 'puppet-stdlib'
 mod 'puppet-download_file'
 mod 'puppet-windows_env'
 mod 'puppet-windowsfeature'
